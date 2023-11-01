@@ -1,0 +1,23 @@
+{
+  "name": "production_backend",
+  "version": "1.0.0",
+  "description": "learning production grade backend code",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Oliver Ekka",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
