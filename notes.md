@@ -6,3 +6,8 @@ and it is dev-dependency because we don't need it in production
 .gitkeep is a convention to keep an empty folder in git
 
 package.json -> scripts -> dev: "nodemon src/index.js"
+
+Inside src -> controllers,db,middlewares,models,routes,utils
+
+
+.prettierrc in root folder have to make manually
